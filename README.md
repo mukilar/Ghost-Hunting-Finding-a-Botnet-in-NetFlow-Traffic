@@ -13,6 +13,8 @@ This project used the NetFlow of a portion of that PCAP, showing high-level summ
 
 https://www.stratosphereips.org/datasets-ctu13
 
-This second link provides an overview of the Czech Technical University dataset 13 (CTU-13), of which we are examining one part (CTU-Malware-Capture-Botnet-54). 
+This second link provides an overview of the Czech Technical University dataset 13 (CTU-13), of which we are examining one part (CTU-Malware-Capture-Botnet-54).
+
+Backup site for CTU-13 dataset: https://mega.nz/folder/vdRmBA6D#yMZXx74nnu8GjhdwSF54Sw/folder/TBAVQK5b
 
 Here's a link to our presentation on YouTube: https://www.youtube.com/watch?v=Z_-J9RFIwlQ&feature=youtu.be
